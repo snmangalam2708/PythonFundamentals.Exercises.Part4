@@ -42,7 +42,7 @@ Create a program called *fibonacci_recursive.py*
 * This problem must be solved using recursion. 
 
 **Constraints**  
-For the purposes of this exercise, n will always be less than or equal to 30.
+n >= 0 and n <= 30
 
 ## Exercise 3
 
@@ -55,4 +55,4 @@ Create a program called *fibonacci_linear.py*
 * This problem must be solved **WITHOUT** the use of recursion. 
 
 **Constraints**  
-None
+n >= 0
