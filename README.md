@@ -38,8 +38,21 @@ Create a program called *fibonacci_recursive.py*
 **Requirements**
 
 * Given a term (n), determine the value of x(n).
-* In the fibonacci.py program, create a function called *fibonnaci*. The function should take in an integer and return the value of x(n).
+* In the *fibonacci_recursive.py* program, create a function called *fibonnaci*. The function should take in an integer and return the value of x(n).
 * This problem must be solved using recursion. 
 
 **Constraints**  
 For the purposes of this exercise, n will always be less than or equal to 30.
+
+## Exercise 3
+
+Create a program called *fibonacci_linear.py*
+
+**Requirements**
+
+* Given a term (n), determine the value of x(n).
+* In the *fibonacci_linear.py* program, create a function called *fibonnaci*. The function should take in an integer and return the value of x(n).
+* This problem must be solved **WITHOUT** the use of recursion. 
+
+**Constraints**  
+None
