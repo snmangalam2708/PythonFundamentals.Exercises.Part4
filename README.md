@@ -58,3 +58,12 @@ Create a program called *fibonacci_linear.py*
 
 **Constraints**  
 n >= 0
+
+## Exercise 4 
+
+Create a copy of the program called *higher_or_lower.py* from exercise 2 in Part 3.
+
+Extend the functionality to meet the following requirements:
+* If a user's guess is incorrect, they get to keep guessing until they get it right.
+
+![higher_or_lower_demo](higher_or_lower_demo.gif)
